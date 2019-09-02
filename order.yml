@@ -15,4 +15,4 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
   jackson:
     default-property-inclusion: non_null
-env: test
+env: test1
