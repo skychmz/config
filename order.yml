@@ -15,4 +15,10 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
   jackson:
     default-property-inclusion: non_null
-env: test6
+  rabbitmq:
+      host: 192.168.99.100
+      username: guest
+      password: guest
+  redis:
+    host: 192.168.99.100
+    port: 6379
