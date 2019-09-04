@@ -1,2 +1,3 @@
 zuul:
+  sensitive-header:
   ignored-patterns: - /**/product/listForOrder
